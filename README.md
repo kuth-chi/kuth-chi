@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning AI architecture and Web3
 - 👯 I’m looking to collaborate on any AI and Web3 open-source
-- 🤔 I’m looking for help with AI engineer and Web3
+- 🤔 I’m looking for help with Data Science, Tensorflow, Machine Learning and Web3
 - 💬 Ask me about web development algorithms 
 - 📫 How to reach me: kuthchi[AT]outlook[DOT]com
 - 😄 Pronouns: Kuth Chi
