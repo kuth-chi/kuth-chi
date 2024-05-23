@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 👨‍💻 About Me:
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Education Hub
 - 🌱 I’m currently learning AI architecture and Web3
 - 👯 I’m looking to collaborate on any AI and Web3 open-source
 - 🤔 I’m looking for help with Data Science, Tensorflow, Machine Learning and Web3
