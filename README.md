@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: . 
 
 🛠️ Tech Stack:
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,angular,html,css,python,docker,mongdb,gql,postgres,git&perline=5" alt="Tech Stack" /> 
+
 - Languages: Python, CSS, JavaScript
 - Frameworks: [Django, Angular, React]
 - Tools: Git, VS Code, Docker
