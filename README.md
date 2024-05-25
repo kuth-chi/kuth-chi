@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: I enjoy exploring new technologies and experimenting with code to build cool projects!
 
-📊 GitHub Stats:
 <a href="https://github.com/kuth-chi/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kuth-chi&show_icons=true&theme=transparent" />
 </a>
