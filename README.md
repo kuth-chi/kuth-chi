@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kuth-chi&show=reviews,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent))](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/kuth-chi/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kuth-chi" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kuth-chi&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/kuth-chi/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuthch-chi&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuth-chi&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 Let's connect and collaborate on exciting projects! 😊
