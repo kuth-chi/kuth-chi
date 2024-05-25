@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 📊 GitHub Stats:
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kuth-chi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kuth-chi&show=reviews,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent))](https://github.com/anuraghazra/github-readme-stats)
 
 Let's connect and collaborate on exciting projects! 😊
