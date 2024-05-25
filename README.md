@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi There 👋
 
 Here are some ideas to get you started:
 
@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Kuth Chi
 - ⚡ Fun fact: . 
 
-🛠️ Tech Stack:
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,angular,html,css,python,docker,mongdb,gql,postgres,git&perline=5" alt="Tech Stack" /> 
-
-- Languages: Python, CSS, JavaScript
-- Frameworks: [Django, Angular, React]
-- Tools: Git, VS Code, Docker
+## 🛠️ Tech Stack:
+  ### DevOps
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,linux,aws" />
+    </a>
+  </p>
 
 ⚡ Fun fact: I enjoy exploring new technologies and experimenting with code to build cool projects!
 
