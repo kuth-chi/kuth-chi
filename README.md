@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://github.com/kuth-chi/kuth-chi">
-    <img src="https://skillicons.dev/icons?i=python,php,java,bash,js,ts,sass,css,html" />
+    <img src="https://skillicons.dev/icons?i=python,bash,js,ts,sass,css,html" />
   </a>
 </p>
 
 <h3 align="center">Frameworks</h3>
 <p align="center">
   <a href="https://github.com/kuth-chi/kuth-chi">
-    <img src="https://skillicons.dev/icons?i=flask,django,fastapi,spring,laravel,nodejs,react,angular,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=flask,django,fastapi,nodejs,react,angular,bootstrap,tailwind" />
   </a>
 </p>
 
