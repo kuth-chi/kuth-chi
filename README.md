@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <h3 align="center">Software & Tools</h3>
 <p align="center">
   <a href="https://github.com/kuth-chi/kuth-chi">
-    <img src="https://skillicons.dev/icons?i=xd,figma,sketchup,photoshop,ai" />
+    <img src="https://skillicons.dev/icons?i=swagger,postman,xd,figma,sketchup,photoshop,ai" />
   </a>
 </p>
 
