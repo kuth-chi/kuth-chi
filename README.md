@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <h3 align="center">DevOps</h3>
 <p align="center">
   <a href="https://github.com/kuth-chi/kuth-chi">
-    <img src="https://skillicons.dev/icons?i=github,kubernetes,docker,linux,aws,gcp,heroku,cloudflare,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=github,kubernetes,docker,linux,aws,gcp,redhat,heroku,cloudflare,ubuntu" />
   </a>
 </p>
 
