@@ -1,0 +1,16 @@
+{
+  "name": "kuth-chi",
+  "version": "1.0.0",
+  "description": "Here are some ideas to get you started:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tailwind": "npx tailwindcss -i ./static/css/tailwind.css -o ./static/css/main.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
