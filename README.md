@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://github.com/kuth-chi/kuth-chi">
-    <img src="https://skillicons.dev/icons?i=python,bash,js,ts,sass,css,html" />
+    <img src="https://skillicons.dev/icons?i=python,cs,bash,js,ts,sass,css,html" />
   </a>
 </p>
 
 <h3 align="center">Frameworks</h3>
 <p align="center">
   <a href="https://github.com/kuth-chi/kuth-chi">
-    <img src="https://skillicons.dev/icons?i=flask,django,fastapi,nodejs,react,angular,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=flask,django,fastapi,nodejs,dotnet,react,angular,bootstrap,tailwind" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <h3 align="center">DevOps</h3>
 <p align="center">
   <a href="https://github.com/kuth-chi/kuth-chi">
-    <img src="https://skillicons.dev/icons?i=github,kubernetes,docker,linux,aws,gcp,redhat,heroku,cloudflare,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=github,kubernetes,docker,linux,aws,gcp,redhat,heroku,cloudflare,ubuntu,azure" />
   </a>
 </p>
 
