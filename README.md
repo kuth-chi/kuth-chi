@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 👨‍💻 About Me:
-- 🔭 I’m currently working on Education Hub
+- 🔭 I’m currently working on System Solution, Integrate MS D365, SalesForce
 - 🌱 I’m currently learning AI architecture and Web3
 - 👯 I’m looking to collaborate on any AI and Web3 open-source
 - 🤔 I’m looking for help with Data Science, Tensorflow, Machine Learning and Web3
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://github.com/kuth-chi/kuth-chi">
-    <img src="https://skillicons.dev/icons?i=python,cs,bash,js,ts,sass,css,html" />
+    <img src="https://skillicons.dev/icons?i=go,python,cs,bash,js,ts,sass,css,html" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <h3 align="center">SQL</h3>
 <p align="center">
   <a href="https://github.com/kuth-chi/kuth-chi">
-    <img src="https://skillicons.dev/icons?i=mongo,postgres,mysql,firebase,graphql" />
+    <img src="https://skillicons.dev/icons?i=msql,mongo,postgres,mysql,firebase,graphql" />
   </a>
 </p>
 
